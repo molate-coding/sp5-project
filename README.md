@@ -11,4 +11,4 @@ Este é um aplicativo web interativo feito com Streamlit que permite explorar da
 - Gerar um gráfico de dispersão comparando a quilometragem (`odometer`) e o preço (`price`) dos carros
 
 ## Aplicativo publicado
-Acesse o app aqui: **Projeto em desenvolvimento**: O link para acesso público estará disponível assim que o deploy no Render for concluído.
+Acesse o app aqui: https://sp5-project.onrender.com/
